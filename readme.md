@@ -46,6 +46,7 @@ python3 -m domainbed.scripts.download --data_dir=[DATASET_PATH]
 
 I also provide pretrained models and DSS scores in:\
 https://drive.google.com/file/d/17MbHJo-khjhxo04Yh6XRPiA-EDRdYfbU/view?usp=sharing
+
 After unzipping the folder:
 1. move the two '.pt' files inside mnist_m_exp into mnist_m_exp/trained_models.
 2. move domainbed_miro_exp/PACS/PACS_*_score.pkl into domainbed_miro_exp/.
