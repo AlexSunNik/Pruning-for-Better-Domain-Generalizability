@@ -1,0 +1,101 @@
+Test results on source_only :
+
+Source Accuracy: 9919/10000 (99.19%)
+
+Target Accuracy: 5930/10000 (59.30%)
+28105.0 parameters out of 40880
+
+Test results on source_only :
+
+Source Accuracy: 9633/10000 (96.33%)
+
+Target Accuracy: 5629/10000 (56.29%)
+Test results on source_only :
+
+Source Accuracy: 9906/10000 (99.06%)
+
+Target Accuracy: 6005/10000 (60.05%)
+Test results on source_only :
+
+Source Accuracy: 9927/10000 (99.27%)
+
+Target Accuracy: 6127/10000 (61.27%)
+Test results on source_only :
+
+Source Accuracy: 9932/10000 (99.32%)
+
+Target Accuracy: 6186/10000 (61.86%)
+Test results on source_only :
+
+Source Accuracy: 9931/10000 (99.31%)
+
+Target Accuracy: 6176/10000 (61.76%)
+Test results on source_only :
+
+Source Accuracy: 9931/10000 (99.31%)
+
+Target Accuracy: 6176/10000 (61.76%)
+19563.0 parameters out of 40880
+
+Test results on source_only :
+
+Source Accuracy: 9581/10000 (95.81%)
+
+Target Accuracy: 5743/10000 (57.43%)
+Test results on source_only :
+
+Source Accuracy: 9907/10000 (99.07%)
+
+Target Accuracy: 6306/10000 (63.06%)
+Test results on source_only :
+
+Source Accuracy: 9932/10000 (99.32%)
+
+Target Accuracy: 6276/10000 (62.76%)
+Test results on source_only :
+
+Source Accuracy: 9930/10000 (99.30%)
+
+Target Accuracy: 6376/10000 (63.76%)
+Test results on source_only :
+
+Source Accuracy: 9934/10000 (99.34%)
+
+Target Accuracy: 6360/10000 (63.60%)
+Test results on source_only :
+
+Source Accuracy: 9934/10000 (99.34%)
+
+Target Accuracy: 6360/10000 (63.60%)
+13652.0 parameters out of 40880
+
+Test results on source_only :
+
+Source Accuracy: 9411/10000 (94.11%)
+
+Target Accuracy: 5169/10000 (51.69%)
+Test results on source_only :
+
+Source Accuracy: 9910/10000 (99.10%)
+
+Target Accuracy: 6217/10000 (62.17%)
+Test results on source_only :
+
+Source Accuracy: 9920/10000 (99.20%)
+
+Target Accuracy: 6295/10000 (62.95%)
+Test results on source_only :
+
+Source Accuracy: 9922/10000 (99.22%)
+
+Target Accuracy: 6196/10000 (61.96%)
+Test results on source_only :
+
+Source Accuracy: 9929/10000 (99.29%)
+
+Target Accuracy: 6251/10000 (62.51%)
+Test results on source_only :
+
+Source Accuracy: 9929/10000 (99.29%)
+
+Target Accuracy: 6251/10000 (62.51%)

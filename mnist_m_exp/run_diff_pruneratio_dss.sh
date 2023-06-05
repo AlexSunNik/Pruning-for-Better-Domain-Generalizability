@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 10 --times 2
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 20 --times 2
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 30 --times 2
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 40 --times 2
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 50 --times 2
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 60 --times 2
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 70 --times 3
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 80 --times 3
+CUDA_VISIBLE_DEVICES=0 python3 prune_avgfmap_dss.py --prune 90 --times 3

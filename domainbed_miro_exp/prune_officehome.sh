@@ -1,0 +1,4 @@
+CUDA_VISIBLE_DEVICES=0 python3 prune_all.py OfficeHome_PRUNE0 --data_dir ../domain_bed/ --algorithm MIRO --dataset OfficeHome --lr 6e-6 --resnet_dropout 0.1 --weight_decay 1e-6 --ld 0.1 --testenv 0 --model_save 0 --steps 4000
+CUDA_VISIBLE_DEVICES=1 python3 prune_all.py OfficeHome_PRUNE1 --data_dir ../domain_bed/ --algorithm MIRO --dataset OfficeHome --lr 6e-6 --resnet_dropout 0.1 --weight_decay 1e-6 --ld 0.1 --testenv 1 --model_save 0 --steps 4000
+CUDA_VISIBLE_DEVICES=2 python3 prune_all.py OfficeHome_PRUNE2 --data_dir ../domain_bed/ --algorithm MIRO --dataset OfficeHome --lr 6e-6 --resnet_dropout 0.1 --weight_decay 1e-6 --ld 0.1 --testenv 2 --model_save 0 --steps 4000
+CUDA_VISIBLE_DEVICES=3 python3 prune_all.py OfficeHome_PRUNE3 --data_dir ../domain_bed/ --algorithm MIRO --dataset OfficeHome --lr 6e-6 --resnet_dropout 0.1 --weight_decay 1e-6 --ld 0.1 --testenv 3 --model_save 0 --steps 4000

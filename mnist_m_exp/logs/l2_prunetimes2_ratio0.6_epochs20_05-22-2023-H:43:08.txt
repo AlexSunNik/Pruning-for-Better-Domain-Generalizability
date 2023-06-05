@@ -1,0 +1,69 @@
+Test results on source_only :
+
+Source Accuracy: 9919/10000 (99.19%)
+
+Target Accuracy: 5930/10000 (59.30%)
+26427.0 parameters out of 40880
+
+Test results on source_only :
+
+Source Accuracy: 9894/10000 (98.94%)
+
+Target Accuracy: 5730/10000 (57.30%)
+Test results on source_only :
+
+Source Accuracy: 9923/10000 (99.23%)
+
+Target Accuracy: 6026/10000 (60.26%)
+Test results on source_only :
+
+Source Accuracy: 9926/10000 (99.26%)
+
+Target Accuracy: 6011/10000 (60.11%)
+Test results on source_only :
+
+Source Accuracy: 9928/10000 (99.28%)
+
+Target Accuracy: 5943/10000 (59.43%)
+Test results on source_only :
+
+Source Accuracy: 9924/10000 (99.24%)
+
+Target Accuracy: 5954/10000 (59.54%)
+Test results on source_only :
+
+Source Accuracy: 9924/10000 (99.24%)
+
+Target Accuracy: 5954/10000 (59.54%)
+17084.0 parameters out of 40880
+
+Test results on source_only :
+
+Source Accuracy: 9899/10000 (98.99%)
+
+Target Accuracy: 5793/10000 (57.93%)
+Test results on source_only :
+
+Source Accuracy: 9900/10000 (99.00%)
+
+Target Accuracy: 6062/10000 (60.62%)
+Test results on source_only :
+
+Source Accuracy: 9930/10000 (99.30%)
+
+Target Accuracy: 5950/10000 (59.50%)
+Test results on source_only :
+
+Source Accuracy: 9926/10000 (99.26%)
+
+Target Accuracy: 5902/10000 (59.02%)
+Test results on source_only :
+
+Source Accuracy: 9922/10000 (99.22%)
+
+Target Accuracy: 5900/10000 (59.00%)
+Test results on source_only :
+
+Source Accuracy: 9922/10000 (99.22%)
+
+Target Accuracy: 5900/10000 (59.00%)

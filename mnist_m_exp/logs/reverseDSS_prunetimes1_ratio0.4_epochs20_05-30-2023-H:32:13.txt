@@ -1,0 +1,37 @@
+Test results on source_only :
+
+Source Accuracy: 9919/10000 (99.19%)
+
+Target Accuracy: 5930/10000 (59.30%)
+24749.0 parameters out of 40880
+
+Test results on source_only :
+
+Source Accuracy: 9770/10000 (97.70%)
+
+Target Accuracy: 5593/10000 (55.93%)
+Test results on source_only :
+
+Source Accuracy: 9918/10000 (99.18%)
+
+Target Accuracy: 5822/10000 (58.22%)
+Test results on source_only :
+
+Source Accuracy: 9932/10000 (99.32%)
+
+Target Accuracy: 5793/10000 (57.93%)
+Test results on source_only :
+
+Source Accuracy: 9935/10000 (99.35%)
+
+Target Accuracy: 5783/10000 (57.83%)
+Test results on source_only :
+
+Source Accuracy: 9931/10000 (99.31%)
+
+Target Accuracy: 5835/10000 (58.35%)
+Test results on source_only :
+
+Source Accuracy: 9931/10000 (99.31%)
+
+Target Accuracy: 5835/10000 (58.35%)
