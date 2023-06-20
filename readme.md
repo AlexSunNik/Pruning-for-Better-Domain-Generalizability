@@ -2,10 +2,10 @@
 
 This repository is for the method introduced in the following paper accepted by ICML2023'SCIS:
 
-Also used as the final project for the course Stanford CS 329D
-
 Pruning for Better Domain Generalizability\
 Xinglong Sun
+
+Also used as the final project for the course Stanford CS 329D
 
 ## Introduction
 n this paper, we investigate whether we could
