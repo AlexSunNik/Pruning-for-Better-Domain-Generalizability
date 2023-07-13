@@ -8,7 +8,7 @@ Xinglong Sun
 Also used as the final project for the course Stanford CS 329D
 
 ## Introduction
-n this paper, we investigate whether we could
+In this paper, we investigate whether we could
 use pruning as a reliable method to boost the
 generalization ability of the model. We found
 that existing pruning method like L2 can already
