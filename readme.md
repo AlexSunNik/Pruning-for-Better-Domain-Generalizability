@@ -78,7 +78,7 @@ bash run_diff_pruneratio_dss.sh
 ```
 With L2:
 ```
-bash run_diff_pruneratio_dss.sh
+bash run_diff_pruneratio_l2.sh
 ```
 For reproduction purpose, I also provide training logs in mnist_m_exp/logs
 
